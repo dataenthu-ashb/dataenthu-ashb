@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub!
 
-Hi, I'm [Your Name] – a data scientist and econometrics enthusiast passionate about translating complex data into meaningful insights. This repository showcases two key folders:
+Hi, I'm ashb – a data scientist and econometrics enthusiast passionate about translating complex data into meaningful insights. This repository showcases two key folders:
 
 - 🧠 **Foundations**: Learning resources and exercises in Python, Data Science, and Machine Learning.
 - 📈 **Forecasting Project**: A collaborative project with VLK, using models like MIDAS and ARIMA for time series forecasting.
